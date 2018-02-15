@@ -1,0 +1,4 @@
+#Tue Feb 13 15:09:41 IST 2018
+base.0=/home/ingreens/AndroidStudioProjects/FirebaseNotification/app/build/intermediates/transforms/dexMerger/androidTest/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
